@@ -11,7 +11,7 @@ column_name = 'Videos'
 # Credenciales google drive
 
 directorio_credenciales = 'credentials_module.json'
-id_folder = '1UvGTUoIN0xY7qlU1oY7tzC_IUKabB6dS'
+id_folder = 'ID_CLOUD
 
 def login():
     GoogleAuth.DEFAULT_SETTINGS['cliente_config_file'] = directorio_credenciales
